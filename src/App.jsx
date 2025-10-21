@@ -3,7 +3,7 @@
 
 import React from "react";
 import Footer from "./components/Footer";
-import Customize from "./components/customize";
+import Customize from "./components/Customize";
 import Home from "./components/Home";
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar"
